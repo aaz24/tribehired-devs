@@ -1,3 +1,9 @@
+# How To Run
+1. Set up new db 'blogs'
+2. Configure .env file
+3. Run 'composer update' in terminal (must be in the path folder)
+4. Run 'php -S localhost:8000 -t public/'
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
